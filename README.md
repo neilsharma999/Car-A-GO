@@ -1,2 +1,4 @@
 # Car-A-GO
-A car rental website using html,css,js
+An average car rental website just to get some hands on programming
+<br>
+TechStack Used- HTML,CSS,JS
